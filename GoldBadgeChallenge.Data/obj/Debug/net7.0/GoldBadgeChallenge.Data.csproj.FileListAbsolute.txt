@@ -1,0 +1,11 @@
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\bin\Debug\net7.0\GoldBadgeChallenge.Data.deps.json
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\bin\Debug\net7.0\GoldBadgeChallenge.Data.dll
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\bin\Debug\net7.0\GoldBadgeChallenge.Data.pdb
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\obj\Debug\net7.0\GoldBadgeChallenge.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\obj\Debug\net7.0\GoldBadgeChallenge.Data.AssemblyInfoInputs.cache
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\obj\Debug\net7.0\GoldBadgeChallenge.Data.AssemblyInfo.cs
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\obj\Debug\net7.0\GoldBadgeChallenge.Data.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\obj\Debug\net7.0\GoldBadgeChallenge.Data.dll
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\obj\Debug\net7.0\refint\GoldBadgeChallenge.Data.dll
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\obj\Debug\net7.0\GoldBadgeChallenge.Data.pdb
+D:\ElevenFiftyProjects\codingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Data\obj\Debug\net7.0\ref\GoldBadgeChallenge.Data.dll
